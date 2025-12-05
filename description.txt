@@ -1,4 +1,6 @@
-This game will be based on Stardew Valley.  A user moves around in a world with a third person view.  
+This game will be based on Stardew Valley.  A user moves around in a world with a third person view.
+
+Ask questions if you need guidance, but be creative and make decisions based on your best guess of what we'd want based on what you know about the game we are building.
 
 At the start of the game, the user should pick all the features of their character avatar, including:
   -skin, hair, eyes, clothing, body, glasses (optional), and footwear.
@@ -25,7 +27,43 @@ Locations:
   Garden
   Town
 
+Gameplay
 
+Hunger
+    When you're hungry, you must eat.  You buy food at the grocery store.
+    When your energy level is low, you go home to sleep, or go to the yoga studio to replenish energy.
+    (If your energy level goes to zero, you faint and loose $100.)
+    You get hungry from the passage of time and from doing work or exercise, including walking around.
+
+  Boredom
+    You get bored if you haven't played in the playground, or done yoga, for a week.
+
+  Time
+    If after a year in the game, a boquet will appear in a random place.  If you find it, you have to press ALT-O to get the boquet.
+    You can talk to the other players in the game by pressing ALT-I.
+      Sometimes they ask you multiple choice questions, which you can respond to by pressing the appropriate #.
+
+    ALT-U will give away a present to another player.
+
+    Receiving two presents makes the other characers ask to marry you.  Pressing 1, responds yes, 2=no.
+
+  Marriage
+    After a few months, your spouse will ask if you want to have a kid. 1=yes, 2=no.
+    After 2 weeks the baby will be born and you'll have to buy groceries to support the baby.
+    After 5 more weeks it becomes a toddler and can move around on it's own.
+    5 weeks later the toddler becomes a kid
+    6 weeks later the kid becomes a teenager
+    7 weeks later, the teenager becomes an adult and moves out and becomes your neighbour
+    when it's a baby, once daily it needs to be fed or it will die.
     
 Keyboard Controls
-    F: takes you to a grocery store
+  The following keys take you to various locations:
+    F: Grocery store
+    G: Garden
+    H: Town
+    J: Restaurant
+    K: Animal Cafe
+    L: Yoga Studio
+    O: Playground
+    I: House
+    ALT-Y: give the baby milk.
