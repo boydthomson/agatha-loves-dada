@@ -1,0 +1,31 @@
+This game will be based on Stardew Valley.  A user moves around in a world with a third person view.  
+
+At the start of the game, the user should pick all the features of their character avatar, including:
+  -skin, hair, eyes, clothing, body, glasses (optional), and footwear.
+
+The character lives in the city.
+    
+You have to select an occupation from:
+  Animal Cafe Owner
+  Restaurant Owner/Chef
+  Gardiner
+
+The GUI has indicators for:
+    Energy Level
+    Hunger
+    Boredom
+
+Locations:
+  Grocery Store
+  House
+  Playground
+  Yoga Studio
+  Animal Cafe
+  Restaurant
+  Garden
+  Town
+
+
+    
+Keyboard Controls
+    F: takes you to a grocery store
